@@ -1,0 +1,17 @@
+ID;Casa propia;Estado civil;Ingreso anual;Default
+1;Si;Soltero;125;No
+2;No;Casado;100;No
+3;No;Soltero;70;No
+4;Si;Casado;120;No
+5;No;Divorciado;95;Si
+6;No;Casado;60;No
+7;Si;Divorciado;220;No
+8;No;Soltero;85;Si
+9;No;Casado;75;No
+10;No;Soltero;90;Si
+11;No;Soltero;55;No
+12;Si;Casado;80;No
+13;Si;Divorciado;110;Si
+14;No;Soltero;95;No
+15;No;Casado;67;Si
+;;;;
